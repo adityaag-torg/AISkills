@@ -46,7 +46,7 @@ You can now access the server at http://localhost:8000
 **TL;DR command list**
 
     git clone git clone git@github.com:adityaag-torg/AISkills.git
-    cd laravel-realworld-example-app
+    cd aiskills
     composer install
     cp .env.example .env
     php artisan key:generate
